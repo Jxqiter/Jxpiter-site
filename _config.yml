@@ -1,8 +1,11 @@
 theme: minima
 
-title: ""
-author: Jxpiter
-description: Cybersecurity portfolio, reverse engineering, and technical projects.
+# Titre affiché en haut à gauche (navbar)
+title: Jxpiter
+
+# Footer
+author: ""
+description: Cybersecurity portfolio and technical projects.
 
 show_excerpts: true
 
