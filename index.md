@@ -1,8 +1,9 @@
 ---
-title: Accueil
+title: ""
+layout: home
 ---
 
-# Bienvenue sur mon site GitHub Pages !
+# Welcome to my GitHub Pages site!
 
-Je suis Jxpiter, étudiant en cybersécurité.  
-Voici mon portfolio, mes projets et mes challenges techniques !
+I'm Jxpiter, a cybersecurity student.  
+Here you'll find my portfolio, technical projects, and CTF write-ups.
