@@ -1,5 +1,5 @@
 ---
-title: Accueil - Mathieu Perret
+title: Accueil
 ---
 
 # Bienvenue sur mon site GitHub Pages !
