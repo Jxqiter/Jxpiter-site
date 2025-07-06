@@ -1,15 +1,10 @@
-theme: hacker
+title: jxpiter
+description: >-
+  Cybersecurity enthusiast exploring reverse engineering, forensics, and system defense.
+baseurl: "" # Leave empty if your site is deployed at the root
+url: "https://jxpiter.github.io" # Change if different
+theme: jekyll-theme-hacker
+show_downloads: false
 
-# Titre affiché en haut à gauche (navbar)
-title: Jxpiter
-
-# Footer
-author: ""
-description: Cybersecurity portfolio and technical projects.
-
-show_excerpts: true
-
-header_pages:
-  - index.md
-  - about.md
-  - contact.md
+author: jxpiter
+email: your.email@protonmail.com
